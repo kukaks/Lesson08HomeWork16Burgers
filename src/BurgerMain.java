@@ -8,6 +8,7 @@ public class BurgerMain {
         //Burger doubleMeatBurger
         new Burger("Картопляна булочка", "Яловичина", "Сир Гауда","Гострий Майонез");
 
+
         // System.out.println(ordinaryBurger);
         // System.out.println(dietBurger);
         // System.out.println(doubleMeatBurger);
